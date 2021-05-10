@@ -1,0 +1,28 @@
+/**********************
+
+author: Adam H
+date: 10. 5. 2021
+
+*************************/
+body {
+    background-color:floralwhite
+}
+#základní info h1{
+    font-size: 36px;
+    color: aquamarine;
+}
+#název {
+    background-color: beige
+}
+h2 {
+    color: darkorchid
+}
+h3 {
+    color: darkorchid
+}
+h4 {
+    color: darkorchid
+}
+#zivot {
+    background-color: aliceblue
+}
